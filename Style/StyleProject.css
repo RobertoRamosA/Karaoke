@@ -1,0 +1,75 @@
+body{
+width:90%;
+margin:0 auto;
+background-image:url("../Imagenes/img4.jpg");
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#list-group-item{
+width:20%;
+cursor:hand;
+cursor:pointer;
+}
+.pagination li a{
+cursor:hand;
+cursor:pointer;
+}
+#Map{
+height: 350px;
+}
+h2{
+text-align: center;
+}
+#carousel{
+width:28%;
+margin: 0 auto;
+}
+.item{
+width:100%;
+}
+#TblMenu{
+margin: 0 auto;
+width:100%;
+height: 250px;
+}
+#TblMenu tr td{
+border:1px solid black;
+text-align: center;
+width:25%;
+background-color: white;
+font-weight: bolder;
+font-size:20px;
+}
+.Foto{
+padding-right: 10px;
+width: 250px;
+height: 200px;
+}
+.Video{
+height:800px;
+}
+.selected{
+background-color: #F2F5A9 !important;
+-moz-box-shadow: 0px 0px 30px #ffffff;
+-webkit-box-shadow: 0px 0px 30px #ffffff;
+}
+#tblAll
+{
+display:none;
+}
+#ajax table{
+width: 60%  ;
+}
+
+#ajax table tr td{
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size:18px;
+}
+
+.pointer{
+cursor:pointer;
+}
